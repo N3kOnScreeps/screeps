@@ -1,2 +1,2 @@
-# screeps
-My Screeps IA
+# Screeps
+My Screeps main IA
